@@ -38,6 +38,10 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 <img width="1599" height="628" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
 <img width="285" height="193" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" /> 
 
+##
+![20260321_111201](https://github.com/user-attachments/assets/0483f678-2e1d-4108-a938-a7fbf1814e2d)
+
+
 
 
 
