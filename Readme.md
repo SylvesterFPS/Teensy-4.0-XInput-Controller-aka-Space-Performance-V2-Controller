@@ -23,6 +23,7 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 <img width="3840" height="2160" alt="d3f8fa78-5b3f-4a2f-8f40-94e7eeca5fef" src="https://github.com/user-attachments/assets/9601d7f0-5206-43d7-9131-680c0bcef2cf" />  
   
 **Specs:**  
+- **Powerd by Teensy 4.0 with XInput**
 - full 3D printable case
 - own 3D printable analogsticks with ball bearing mounting (Gulikit Xbox TMR Sensors), under 1% deadzone in game possible
 - all digital Buttons (optional - analog Trigger)
@@ -36,10 +37,17 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 ## Polling Rate and Latency
 **Polling Rate and real End-to-End-Latency of 1ms**
 <img width="1599" height="628" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
-<img width="285" height="193" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" /> 
+<img width="285" height="193" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
+**Prometheus82-Test**  
+I have to build my own metal frame for Prometheus because my controller is too big. 
+![20260326_223518](https://github.com/user-attachments/assets/c997610a-907f-4ca1-8a13-ff69c3a6212d)
+
 
 ##
 ![20260321_111201](https://github.com/user-attachments/assets/0483f678-2e1d-4108-a938-a7fbf1814e2d)
+<img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
+
+
 
 
 
