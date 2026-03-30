@@ -18,6 +18,7 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 <img width="1920" height="1080" alt="Unbenannnt" src="https://github.com/user-attachments/assets/93487109-df3d-498a-9c28-86d92a7d6322" />
 <img width="8160" height="4592" alt="Comparison" src="https://github.com/user-attachments/assets/1fc76087-3414-43a9-b5c0-f30f00825d1b" />
 <img width="3840" height="2160" alt="Unbenannnnt" src="https://github.com/user-attachments/assets/5d2e0f59-174f-4c4c-9f29-892c46cf2381" />
+<img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
 
 ## Specs of the Controller
 <img width="3840" height="2160" alt="d3f8fa78-5b3f-4a2f-8f40-94e7eeca5fef" src="https://github.com/user-attachments/assets/9601d7f0-5206-43d7-9131-680c0bcef2cf" />  
@@ -45,7 +46,11 @@ I have to build my own metal frame for Prometheus because my controller is too b
 
 ##
 ![20260321_111201](https://github.com/user-attachments/assets/0483f678-2e1d-4108-a938-a7fbf1814e2d)
-<img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
+
+## SLA-3D-Printer-Parts
+Raw printed parts (Front and Back)
+<img width="1824" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/df5b5ce7-e4e0-482b-b082-9d55db1be5f0" />
+
 
 
 
