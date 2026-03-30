@@ -1,5 +1,6 @@
 # Teensy 4.0 XInput Controller aka "Space Performance V2 Controller"
 With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  from dMadison**, you can build your own Xbox-like controller.
+<img width="3840" height="2160" alt="d3f8fa78-5b3f-4a2f-8f40-94e7eeca5fef" src="https://github.com/user-attachments/assets/39a82a05-bd86-43b4-8f9d-0500b84cd88f" />
 
 # Setup
 **Important Links:**  
@@ -21,7 +22,7 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 <img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
 
 ## Specs of the Controller
-<img width="3840" height="2160" alt="d3f8fa78-5b3f-4a2f-8f40-94e7eeca5fef" src="https://github.com/user-attachments/assets/39a82a05-bd86-43b4-8f9d-0500b84cd88f" />
+<img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
  
 **Specs:**  
 - **Powerd by Teensy 4.0 with XInput**
