@@ -41,10 +41,6 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="1599" height="628" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
 <img width="285" height="193" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
 
-I have to build my own metal frame for Prometheus because my controller is too big.  
-
-![20260326_223518](https://github.com/user-attachments/assets/c997610a-907f-4ca1-8a13-ff69c3a6212d)
-
 ## SLA-3D-Printer-Parts
 Raw printed parts (Front and Back).
 The STL files are not yet available due to stability testing. There may be a public version in the future.  
