@@ -25,12 +25,12 @@ With the **Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  
 **Specs:**  
 - **Powerd by Teensy 4.0 with XInput**
 - full 3D printable case
-- own 3D printable analogsticks with ball bearing mounting (Gulikit Xbox TMR Sensors), under 1% deadzone in game possible
+- own 3D printable analogsticks with ball bearing mounting (Gulikit Xbox TMR Sensors), under 1% deadzone in-game possible
 - all digital Buttons (optional - analog Trigger)
 - 6 paddles
 - no vibration motors
 - only wired USB-C
--8000 Hz polling-rate (real end-to-end latency of under 1ms)  
+- 8000 Hz polling-rate (real end-to-end latency of 1ms)  
 
 <img width="3840" height="1151" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/994936a0-3721-4937-a30d-b54f71362a80" />
 
