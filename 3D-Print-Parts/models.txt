@@ -1,1 +1,3 @@
-
+//Low-Level-Resolution
+//No assembly turorial
+//Analog stick files are not available at the moment
