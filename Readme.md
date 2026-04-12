@@ -43,7 +43,8 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 
 ## SLA-3D-Printer-Parts
 Raw printed parts (Front and Back).
-The STL files are not yet available due to stability testing. There may be a public version in the future.  
+The STL files are not yet available due to stability testing. There may be a public version in the future. You can download the current version if you want to try it on this site: https://grabcad.com/library/space-performance-v2-controller-1/details?folder_id=14229136
+. However, please note that there is currently no assembly tutorial available for these parts.
 
 <img width="1824" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/df5b5ce7-e4e0-482b-b082-9d55db1be5f0" />  
 <img width="1373" height="1080" alt="Unbegnannt" src="https://github.com/user-attachments/assets/fc827f31-e441-442b-8764-04ad2df2ab4a" />  
