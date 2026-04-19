@@ -39,7 +39,7 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 ## Polling Rate and Latency
 **Polling Rate and real End-to-End-Latency of 1ms**
 <img width="100%" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
-<img width="100%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
+<img width="40%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
 
 ## SLA-3D-Printer-Parts
 Raw printed parts (Front and Back).
