@@ -8,7 +8,7 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 **Teensy 4.0:** https://www.pjrc.com/store/teensy40.html  
 **Arduino XInput Libary:** https://github.com/dmadison/ArduinoXInput
 
-  <img width="1590" height="542" alt="Unbenannt" src="https://github.com/user-attachments/assets/21f91fc9-73f8-4137-860e-9ca5250b0e0b" />
+<img width="100%" alt="Unbenannt" src="https://github.com/user-attachments/assets/21f91fc9-73f8-4137-860e-9ca5250b0e0b" />
 
 ## Control Surface 
 - all 15 Digital Buttons
@@ -17,12 +17,12 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 - 1 Four-Way Directional Pad (D-Pad)
 
 # My own Build: Space Performance V2 Controller
-<img width="1920" height="1080" alt="Unbenannnt" src="https://github.com/user-attachments/assets/93487109-df3d-498a-9c28-86d92a7d6322" />
-<img width="8160" height="4592" alt="Comparison" src="https://github.com/user-attachments/assets/1fc76087-3414-43a9-b5c0-f30f00825d1b" />
-<img width="3840" height="2160" alt="Unbenannnnt" src="https://github.com/user-attachments/assets/5d2e0f59-174f-4c4c-9f29-892c46cf2381" />
+<img width="100%" alt="Unbenannnt" src="https://github.com/user-attachments/assets/93487109-df3d-498a-9c28-86d92a7d6322" />
+<img width="100%" alt="Comparison" src="https://github.com/user-attachments/assets/1fc76087-3414-43a9-b5c0-f30f00825d1b" />
+<img width="100%" alt="Unbenannnnt" src="https://github.com/user-attachments/assets/5d2e0f59-174f-4c4c-9f29-892c46cf2381" />
 
 ## Specs of the Controller
-<img width="3840" height="2160" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
+<img width="100%" alt="a74fb86b-df5e-4b0c-8d26-d2b549598043" src="https://github.com/user-attachments/assets/3a738f25-3d84-4597-af37-9f7ba224b58c" />
  
 **Specs:**  
 - **Powerd by Teensy 4.0 with XInput**
@@ -34,20 +34,20 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 - only wired USB-C
 - 8000 Hz polling-rate (real end-to-end latency of 1ms)  
 
-<img width="3840" height="1151" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
+<img width="100%" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
 
 ## Polling Rate and Latency
 **Polling Rate and real End-to-End-Latency of 1ms**
-<img width="1599" height="628" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
-<img width="285" height="193" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
+<img width="100%" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
+<img width="100%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />   
 
 ## SLA-3D-Printer-Parts
 Raw printed parts (Front and Back).
 The STL files are not yet available due to stability testing. There may be a public version in the future. You can download the current version if you want to try it on this site: https://grabcad.com/library/space-performance-v2-controller-1/details?folder_id=14229136
 . However, please note that there is currently no assembly tutorial available for these parts.
 
-<img width="1824" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/df5b5ce7-e4e0-482b-b082-9d55db1be5f0" />  
-<img width="1373" height="1080" alt="Unbegnannt" src="https://github.com/user-attachments/assets/fc827f31-e441-442b-8764-04ad2df2ab4a" />  
+<img width="100%" alt="Unbenannt" src="https://github.com/user-attachments/assets/df5b5ce7-e4e0-482b-b082-9d55db1be5f0" />  
+<img width="100%" alt="Unbegnannt" src="https://github.com/user-attachments/assets/fc827f31-e441-442b-8764-04ad2df2ab4a" />  
 
 ![20260321_111201](https://github.com/user-attachments/assets/0483f678-2e1d-4108-a938-a7fbf1814e2d)
 
