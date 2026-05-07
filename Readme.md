@@ -43,10 +43,6 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="40%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />  
 
 
-   
-## Firmware Processing Latency
-
-https://github.com/user-attachments/assets/c0f3a191-7e9f-4936-a88d-22a76f85ec35
 
 
 
@@ -63,6 +59,18 @@ The STL files are not yet available due to stability testing. There may be a pub
 https://github.com/user-attachments/assets/8df616dd-1650-4056-8ab0-c3171b6e6a49
 
 ![20260321_111201](https://github.com/user-attachments/assets/0483f678-2e1d-4108-a938-a7fbf1814e2d)
+
+# Currently working on:
+- **Firmware Processing Latency**
+- making the XInput libary faster
+
+https://github.com/user-attachments/assets/c0f3a191-7e9f-4936-a88d-22a76f85ec35
+
+- **App for calibration**
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/bd6ce348-fc34-4a10-842a-6bfedf141b5d" />
+
+- **new Shell "Space Performance V3"**
+- with LED, Keyboard-Button-Mapping and Scroll-Wheel
 
 
 
